@@ -1,5 +1,15 @@
 {
   "expo": {
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.7.20"
+          }
+        }
+      ]
+    ],
     "extra": {
       "eas": {
         "projectId": "a7664f97-65d3-47dd-baf4-9437c7af9b11"
