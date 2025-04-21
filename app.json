@@ -1,7 +1,6 @@
 {
   "expo": {
     "plugins": [
-      "expo-modules-core",
       ["expo-build-properties", {
         "android": {
           "compileSdkVersion": 33,
