@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "a7664f97-65d3-47dd-baf4-9437c7af9b11"
+      }
+    },
+    "android": {
+      "package": "com.ebaker1995.photoswipeapp"
+    }
+  }
+}
