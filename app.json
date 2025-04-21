@@ -1,17 +1,5 @@
 {
   "expo": {
-    "plugins": [
-      ["expo-build-properties", {
-        "android": {
-          "compileSdkVersion": 33,
-          "targetSdkVersion": 33,
-          "minSdkVersion": 21,
-          "kotlinVersion": "1.7.20",
-          "gradlePluginVersion": "7.2.2"
-        }
-      }],
-      "expo-application"
-    ],
     "extra": {
       "eas": {
         "projectId": "a7664f97-65d3-47dd-baf4-9437c7af9b11"
